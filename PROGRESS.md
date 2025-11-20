@@ -61,7 +61,7 @@ For **each file** in `source-docs/`, create a separate analysis file in `analysi
 
 ### Checklist (one per file):
 
-- [ ] File 1: `EMERGENT_PROPERTIES_ANALYSIS.md` → `analysis/files/EMERGENT_PROPERTIES_ANALYSIS_ANALYSIS.md`
+- [x] File 1: `EMERGENT_PROPERTIES_ANALYSIS.md` → `analysis/files/EMERGENT_PROPERTIES_ANALYSIS_ANALYSIS.md` ✅
 - [ ] File 2: `MATHS_CS_STRUCTURE.md` → `analysis/files/MATHS_CS_STRUCTURE_ANALYSIS.md`
 - [x] File 3: `SPARSE_DENSITY_AND_HoTT.md` → `analysis/files/SPARSE_DENSITY_AND_HoTT_ANALYSIS.md` ✅
 
